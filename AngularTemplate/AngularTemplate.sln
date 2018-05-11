@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularTemplate.ASPWebForm", "AngularTemplate.ASPWebForm\AngularTemplate.ASPWebForm.csproj", "{F1BD4B34-C91B-49AD-AFC6-690E80987CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1BD4B34-C91B-49AD-AFC6-690E80987CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BD4B34-C91B-49AD-AFC6-690E80987CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BD4B34-C91B-49AD-AFC6-690E80987CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BD4B34-C91B-49AD-AFC6-690E80987CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFEEC07-1240-44BA-A4DB-B3DD0700943E}
+	EndGlobalSection
+EndGlobal

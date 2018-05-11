@@ -3,3 +3,5 @@
 ################################################################################
 
 /AngularTemplate/.vs
+/AngularTemplate/AngularTemplate.ASPWebForm/bin
+/AngularTemplate/AngularTemplate.ASPWebForm/obj/Debug

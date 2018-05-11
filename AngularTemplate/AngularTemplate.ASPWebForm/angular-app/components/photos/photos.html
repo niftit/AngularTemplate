@@ -1,0 +1,12 @@
+﻿<div class="row">
+    <div class="col-md-3" ng-repeat="photo in vm.vars.photos">
+        <div class="card mb-4 box-shadow">
+            <img class="card-img-top" ng-src="{{photo.thumbnailUrl}}" />
+            <div class="card-body">
+                <p class="card-text">
+                    {{photo.title}}
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
