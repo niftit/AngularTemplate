@@ -172,7 +172,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="angular-app\filters\" />
-    <Folder Include="angular-app\libraries\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
