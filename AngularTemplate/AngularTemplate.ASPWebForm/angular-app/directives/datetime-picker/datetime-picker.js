@@ -1,5 +1,5 @@
 ﻿'use strict';
-(function (define, angular) {
+(function () {
     angular.module(constants.appName).directive("datetimePicker", datetimePickerFn);
     datetimePickerFn.$inject = ['$rootScope'];
     function datetimePickerFn($rootScope) {
@@ -79,4 +79,4 @@
             }
         }
     }
-})(window.define, window.angular);
+})();

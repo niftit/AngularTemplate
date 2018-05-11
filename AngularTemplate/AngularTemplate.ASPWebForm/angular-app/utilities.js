@@ -1,5 +1,4 @@
 ﻿'use strict';
-'use strict';
 (function () {
     window.utilities = {
         url: {

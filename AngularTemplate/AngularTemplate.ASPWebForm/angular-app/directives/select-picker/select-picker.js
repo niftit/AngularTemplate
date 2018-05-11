@@ -1,6 +1,6 @@
 ﻿'use strict';
 // Controller to featch data from config list
-(function (define, angular) {
+(function () {
 
     angular.module(constants.appName)
         .directive("selectPicker", selectPickerFn);
@@ -86,4 +86,4 @@
         };
     });
 
-})(window.define, window.angular);
+})();

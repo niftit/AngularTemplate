@@ -1,7 +1,7 @@
 ﻿'use strict';
-(function (define, angular) {
+(function () {
 
 	window.constants = {
 		appName: "AngularTemplate"
 	}
-})(window.define, window.angular);
+})();

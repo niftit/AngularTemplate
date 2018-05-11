@@ -1,5 +1,5 @@
 ﻿'use strict';
-(function (define, angular) {
+(function () {
 	angular.module(constants.appName, ['ui.router', 'ui.bootstrap', 'ngSanitize']);
 
 	angular.module(constants.appName).config(['$compileProvider',
@@ -12,4 +12,4 @@
 		$qProvider.errorOnUnhandledRejections(false);
 	}]);
 
-})(window.define, window.angular);
+})();

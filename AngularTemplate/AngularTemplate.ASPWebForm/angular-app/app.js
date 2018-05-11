@@ -1,6 +1,6 @@
 ﻿'use strict';
-(function (define, angular) {
+(function () {
     angular.element(document).ready(function () {
         angular.bootstrap("body", [constants.appName]);
     });
-})(window.define, window.angular);
+})();

@@ -1,5 +1,5 @@
 ﻿
-(function (define, angular) {
+(function () {
 
     angular.module(constants.appName).directive("interger", integerDr);
 
@@ -74,4 +74,4 @@
             }
         };
     };
-})(window.define, window.angular);
+})();

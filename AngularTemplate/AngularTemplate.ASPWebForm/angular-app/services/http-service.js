@@ -1,5 +1,5 @@
 ﻿'use strict';
-(function (define, angular) {
+(function () {
 	angular.module(constants.appName)
 		.factory("httpService", httpServiceFn);
 	httpServiceFn.$inject = ['$http', '$q'];
@@ -123,4 +123,4 @@
 		};
 
 	}
-})(window.define, window.angular);
+})();

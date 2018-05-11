@@ -138,7 +138,6 @@
     <Content Include="angular-app\directives\datetime-picker\datetime-picker.js" />
     <Content Include="angular-app\directives\interger\interger.js" />
     <Content Include="angular-app\directives\select-picker\select-picker.js" />
-    <Content Include="angular-app\directives\summernote\summernote.js" />
     <Content Include="angular-app\init.js" />
     <Content Include="angular-app\prototypes.js" />
     <Content Include="angular-app\route-config.js" />
