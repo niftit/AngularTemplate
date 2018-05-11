@@ -53,7 +53,7 @@ namespace AngularTemplate.ASPWebForm
             #endregion
 
             //the app name below must be same with app name that is defined in constants.js of the angular app.
-            bundles.Add(new PartialsBundle("Privy", "~/bundles/AngularAppPartials").IncludeDirectory("~/angular-app", "*.html", true));
+            bundles.Add(new PartialsBundle("AngularTemplate", "~/bundles/AngularAppPartials").IncludeDirectory("~/angular-app", "*.html", true));
         }
     }
 
